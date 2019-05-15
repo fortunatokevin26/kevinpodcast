@@ -1,0 +1,19 @@
+{
+  "name": "kevin00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://fortunatokevin26.github.com/kevinpodcast",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
